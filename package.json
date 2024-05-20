@@ -1,0 +1,13 @@
+{
+    "name": "socket-chat-examle",
+    "version": "0.0.1",
+    "desccription": "socket io app",
+    "type": "commonjs",
+    "dependencies": {
+        "express": "^4.19.2",
+        "nodemon": "^3.1.0",
+        "socket.io": "^4.7.5",
+        "sqlite": "^5.1.1",
+        "sqlite3": "^5.1.7"
+    }
+}
